@@ -1,1 +1,1 @@
-# Tutorial_Git_for_data_projects
+# weather-forecast-project
